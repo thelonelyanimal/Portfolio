@@ -3,7 +3,7 @@
     <title>LonelyAnimal</title>
     <link href="https://lonelyanimal.net/feed.xml" rel="self" />
     <link href="https://lonelyanimal.net" />
-    <updated>2021-04-27T21:54:27+05:30</updated>
+    <updated>2021-04-27T22:36:29+05:30</updated>
     <author>
         <name>Harish Bhukya</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://lonelyanimal.net/portfolio.html"/>
         <id>https://lonelyanimal.net/portfolio.html</id>
 
-        <updated>2021-04-27T21:54:27+05:30</updated>
+        <updated>2021-04-27T22:36:29+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://lonelyanimal.net/media/posts/1/1-copy.jpg" alt="" />
@@ -59,7 +59,7 @@
 </div></div>
 <h2><span style="color: #34495e;">2D Drawing</span></h2>
 <p><span style="color: #7e8c8d;">Followed tutorials on youtube</span></p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
+<div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-columns="3">
 <figure class="gallery__item"><a href="https://lonelyanimal.net/media/posts/1/gallery/1.jpg" data-size="2048x1536"><img loading="lazy" src="https://lonelyanimal.net/media/posts/1/gallery/1-thumbnail.jpg" alt="" width="720" height="540"></a>
 <figcaption>Procreate Drawing 1</figcaption>
 </figure>
