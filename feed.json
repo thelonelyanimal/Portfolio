@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "LonelyAnimal",
+    "description": "",
+    "home_page_url": "https://thelonelyanimal.github.io/Portfolio",
+    "feed_url": "https://thelonelyanimal.github.io/Portfolio/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Harish Bhukya"
+    },
+    "items": [
+        {
+            "id": "https://thelonelyanimal.github.io/Portfolio/portfolio.html",
+            "url": "https://thelonelyanimal.github.io/Portfolio/portfolio.html",
+            "title": "Portfolio",
+            "summary": " User Interace Design ",
+            "content_html": "<div class=\"gallery-wrapper gallery-wrapper--full\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://thelonelyanimal.github.io/Portfolio/media/posts/1/gallery/Website-Design.jpg\" data-size=\"2040x1534\"><img loading=\"lazy\" src=\"https://thelonelyanimal.github.io/Portfolio/media/posts/1/gallery/Website-Design-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"541\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://thelonelyanimal.github.io/Portfolio/media/posts/1/gallery/Website-Design-mobile.jpg\" data-size=\"1579x1532\"><img loading=\"lazy\" src=\"https://thelonelyanimal.github.io/Portfolio/media/posts/1/gallery/Website-Design-mobile-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"699\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://thelonelyanimal.github.io/Portfolio/media/posts/1/gallery/Neu.png\" data-size=\"1086x1375\"><img loading=\"lazy\" src=\"https://thelonelyanimal.github.io/Portfolio/media/posts/1/gallery/Neu-thumbnail.png\" alt=\"\" width=\"720\" height=\"912\"></a></figure>\n</div></div>\n<h2>User Interace Design</h2>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://thelonelyanimal.github.io/Portfolio/media/posts/1/Neu.png\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://thelonelyanimal.github.io/Portfolio/media/posts/1/responsive/Neu-xs.png 300w ,https://thelonelyanimal.github.io/Portfolio/media/posts/1/responsive/Neu-sm.png 480w ,https://thelonelyanimal.github.io/Portfolio/media/posts/1/responsive/Neu-md.png 768w ,https://thelonelyanimal.github.io/Portfolio/media/posts/1/responsive/Neu-lg.png 1024w ,https://thelonelyanimal.github.io/Portfolio/media/posts/1/responsive/Neu-xl.png 1360w ,https://thelonelyanimal.github.io/Portfolio/media/posts/1/responsive/Neu-2xl.png 1600w\"  alt=\"\" width=\"1086\" height=\"1375\"></figure>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://thelonelyanimal.github.io/Portfolio/media/posts/1/Website-Design.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://thelonelyanimal.github.io/Portfolio/media/posts/1/responsive/Website-Design-xs.jpg 300w ,https://thelonelyanimal.github.io/Portfolio/media/posts/1/responsive/Website-Design-sm.jpg 480w ,https://thelonelyanimal.github.io/Portfolio/media/posts/1/responsive/Website-Design-md.jpg 768w ,https://thelonelyanimal.github.io/Portfolio/media/posts/1/responsive/Website-Design-lg.jpg 1024w ,https://thelonelyanimal.github.io/Portfolio/media/posts/1/responsive/Website-Design-xl.jpg 1360w ,https://thelonelyanimal.github.io/Portfolio/media/posts/1/responsive/Website-Design-2xl.jpg 1600w\"  alt=\"\" width=\"2040\" height=\"1534\"></figure>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://thelonelyanimal.github.io/Portfolio/media/posts/1/Website-Design-mobile.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://thelonelyanimal.github.io/Portfolio/media/posts/1/responsive/Website-Design-mobile-xs.jpg 300w ,https://thelonelyanimal.github.io/Portfolio/media/posts/1/responsive/Website-Design-mobile-sm.jpg 480w ,https://thelonelyanimal.github.io/Portfolio/media/posts/1/responsive/Website-Design-mobile-md.jpg 768w ,https://thelonelyanimal.github.io/Portfolio/media/posts/1/responsive/Website-Design-mobile-lg.jpg 1024w ,https://thelonelyanimal.github.io/Portfolio/media/posts/1/responsive/Website-Design-mobile-xl.jpg 1360w ,https://thelonelyanimal.github.io/Portfolio/media/posts/1/responsive/Website-Design-mobile-2xl.jpg 1600w\"  alt=\"\" width=\"1579\" height=\"1532\"></figure>",
+            "image": "https://thelonelyanimal.github.io/Portfolio/media/posts/1/1-copy.jpg",
+            "author": {
+                "name": "Harish Bhukya"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-04-27T21:01:08+05:30",
+            "date_modified": "2021-04-27T21:07:11+05:30"
+        }
+    ]
+}
