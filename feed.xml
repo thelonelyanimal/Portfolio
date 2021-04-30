@@ -3,12 +3,64 @@
     <title>LonelyAnimal</title>
     <link href="https://lonelyanimal.net/feed.xml" rel="self" />
     <link href="https://lonelyanimal.net" />
-    <updated>2021-04-27T22:39:24+05:30</updated>
+    <updated>2021-05-01T00:27:26+05:30</updated>
     <author>
         <name>Harish Bhukya</name>
     </author>
     <id>https://lonelyanimal.net</id>
 
+    <entry>
+        <title>Shader Tutorials</title>
+        <author>
+            <name>Harish Bhukya</name>
+        </author>
+        <link href="https://lonelyanimal.net/shader-tutorials.html"/>
+        <id>https://lonelyanimal.net/shader-tutorials.html</id>
+
+        <updated>2021-05-01T00:27:26+05:30</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Home</title>
+        <author>
+            <name>Harish Bhukya</name>
+        </author>
+        <link href="https://lonelyanimal.net/lonelyanimal.html"/>
+        <id>https://lonelyanimal.net/lonelyanimal.html</id>
+
+        <updated>2021-05-01T00:25:16+05:30</updated>
+            <summary>
+                <![CDATA[
+                     Portfolio Tutorials Games Contact 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p> </p>
+<table style="border-collapse: collapse; width: 100%; border-style: outset;" border="0">
+<tbody>
+<tr>
+<td style="width: 33.3333%;">
+<h2><a href="https://lonelyanimal.net/portfolio.html">Portfolio</a></h2>
+</td>
+<td style="width: 33.3333%;">
+<h2><a>Tutorials</a></h2>
+</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">
+<h2><a>Games</a></h2>
+</td>
+<td style="width: 33.3333%;">
+<h2><a>Contact</a></h2>
+</td>
+</tr>
+</tbody>
+</table>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Portfolio</title>
         <author>

@@ -5,6 +5,10 @@
 <loc>https://lonelyanimal.net/</loc>
 </url>
 <url>
+<loc>https://lonelyanimal.net/lonelyanimal.html</loc>
+<lastmod>2021-05-01T00:25:16+05:30</lastmod>
+</url>
+<url>
 <loc>https://lonelyanimal.net/portfolio.html</loc>
 <lastmod>2021-04-27T22:39:24+05:30</lastmod>
 <image:image>
@@ -71,5 +75,9 @@
 <image:loc>https://lonelyanimal.net/media/posts/1/gallery/Neu-thumbnail.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
+</url>
+<url>
+<loc>https://lonelyanimal.net/shader-tutorials.html</loc>
+<lastmod>2021-05-01T00:27:26+05:30</lastmod>
 </url>
 </urlset>

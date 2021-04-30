@@ -10,6 +10,32 @@
     },
     "items": [
         {
+            "id": "https://lonelyanimal.net/shader-tutorials.html",
+            "url": "https://lonelyanimal.net/shader-tutorials.html",
+            "title": "Shader Tutorials",
+            "author": {
+                "name": "Harish Bhukya"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-05-01T00:27:26+05:30",
+            "date_modified": "2021-05-01T00:27:26+05:30"
+        },
+        {
+            "id": "https://lonelyanimal.net/lonelyanimal.html",
+            "url": "https://lonelyanimal.net/lonelyanimal.html",
+            "title": "Home",
+            "summary": " Portfolio Tutorials Games Contact ",
+            "content_html": "<p> </p>\n<table style=\"border-collapse: collapse; width: 100%; border-style: outset;\" border=\"0\">\n<tbody>\n<tr>\n<td style=\"width: 33.3333%;\">\n<h2><a href=\"https://lonelyanimal.net/portfolio.html\">Portfolio</a></h2>\n</td>\n<td style=\"width: 33.3333%;\">\n<h2><a>Tutorials</a></h2>\n</td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\">\n<h2><a>Games</a></h2>\n</td>\n<td style=\"width: 33.3333%;\">\n<h2><a>Contact</a></h2>\n</td>\n</tr>\n</tbody>\n</table>",
+            "author": {
+                "name": "Harish Bhukya"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-05-01T00:21:34+05:30",
+            "date_modified": "2021-05-01T00:25:16+05:30"
+        },
+        {
             "id": "https://lonelyanimal.net/portfolio.html",
             "url": "https://lonelyanimal.net/portfolio.html",
             "title": "Portfolio",
