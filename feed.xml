@@ -3,7 +3,7 @@
     <title>LonelyAnimal</title>
     <link href="https://lonelyanimal.net/feed.xml" rel="self" />
     <link href="https://lonelyanimal.net" />
-    <updated>2021-05-01T00:27:26+05:30</updated>
+    <updated>2021-05-01T02:16:38+05:30</updated>
     <author>
         <name>Harish Bhukya</name>
     </author>
@@ -69,45 +69,25 @@
         <link href="https://lonelyanimal.net/portfolio.html"/>
         <id>https://lonelyanimal.net/portfolio.html</id>
 
-        <updated>2021-04-27T22:39:24+05:30</updated>
+        <updated>2021-05-01T02:16:38+05:30</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://lonelyanimal.net/media/posts/1/1-copy.jpg" alt="" />
-                    3D Environments Unreal Engine Unity Unity Unity Unity Cryengine Unity Relighting the Book of the Dead demo Blender 2D Drawing&hellip;
+                    3D Environments 2D Drawing Followed tutorials on youtube This game was made for GMTK gamejam Going Home by thelonelyanimal 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://lonelyanimal.net/media/posts/1/1-copy.jpg" alt="" />
                 <h2><span style="color: #34495e;">3D Environments</span></h2>
 <div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-columns="3">
-<figure class="gallery__item"><a href="https://lonelyanimal.net/media/posts/1/gallery/Arch.png" data-size="5434x2943"><img loading="lazy" src="https://lonelyanimal.net/media/posts/1/gallery/Arch-thumbnail.png" alt="" width="720" height="390"></a>
-<figcaption>Unreal Engine</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://lonelyanimal.net/media/posts/1/gallery/ForestDemo.jpg" data-size="1280x606"><img loading="lazy" src="https://lonelyanimal.net/media/posts/1/gallery/ForestDemo-thumbnail.jpg" alt="" width="720" height="341"></a>
-<figcaption>Unity</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://lonelyanimal.net/media/posts/1/gallery/Grassland3.jpg" data-size="1280x642"><img loading="lazy" src="https://lonelyanimal.net/media/posts/1/gallery/Grassland3-thumbnail.jpg" alt="" width="720" height="361"></a>
-<figcaption>Unity</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://lonelyanimal.net/media/posts/1/gallery/Green.png" data-size="2560x1440"><img loading="lazy" src="https://lonelyanimal.net/media/posts/1/gallery/Green-thumbnail.png" alt="" width="720" height="405"></a>
-<figcaption>Unity</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://lonelyanimal.net/media/posts/1/gallery/Ground.png" data-size="1474x884"><img loading="lazy" src="https://lonelyanimal.net/media/posts/1/gallery/Ground-thumbnail.png" alt="" width="720" height="432"></a>
-<figcaption>Unity</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://lonelyanimal.net/media/posts/1/gallery/House.jpg" data-size="1280x718"><img loading="lazy" src="https://lonelyanimal.net/media/posts/1/gallery/House-thumbnail.jpg" alt="" width="720" height="404"></a>
-<figcaption>Cryengine</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://lonelyanimal.net/media/posts/1/gallery/Initial.png" data-size="5333x3000"><img loading="lazy" src="https://lonelyanimal.net/media/posts/1/gallery/Initial-thumbnail.png" alt="" width="720" height="405"></a>
-<figcaption>Unity</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://lonelyanimal.net/media/posts/1/gallery/Relighting.jpg" data-size="1280x658"><img loading="lazy" src="https://lonelyanimal.net/media/posts/1/gallery/Relighting-thumbnail.jpg" alt="" width="720" height="370"></a>
-<figcaption>Relighting the Book of the Dead demo</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://lonelyanimal.net/media/posts/1/gallery/1-copy.jpg" data-size="3850x2170"><img loading="lazy" src="https://lonelyanimal.net/media/posts/1/gallery/1-copy-thumbnail.jpg" alt="" width="720" height="406"></a>
-<figcaption>Blender</figcaption>
-</figure>
+<figure class="gallery__item"><a href="https://lonelyanimal.net/media/posts/1/gallery/Grassland3-2.jpg" data-size="1280x642"><img loading="lazy" src="https://lonelyanimal.net/media/posts/1/gallery/Grassland3-2-thumbnail.jpg" alt="" width="768" height="385"></a></figure>
+<figure class="gallery__item"><a href="https://lonelyanimal.net/media/posts/1/gallery/Green.jpg" data-size="1920x1080"><img loading="lazy" src="https://lonelyanimal.net/media/posts/1/gallery/Green-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://lonelyanimal.net/media/posts/1/gallery/ForestDemo-2.jpg" data-size="1280x606"><img loading="lazy" src="https://lonelyanimal.net/media/posts/1/gallery/ForestDemo-2-thumbnail.jpg" alt="" width="768" height="364"></a></figure>
+<figure class="gallery__item"><a href="https://lonelyanimal.net/media/posts/1/gallery/Ground-2.png" data-size="1474x884"><img loading="lazy" src="https://lonelyanimal.net/media/posts/1/gallery/Ground-2-thumbnail.png" alt="" width="768" height="461"></a></figure>
+<figure class="gallery__item"><a href="https://lonelyanimal.net/media/posts/1/gallery/Arch-2.jpg" data-size="2011x1089"><img loading="lazy" src="https://lonelyanimal.net/media/posts/1/gallery/Arch-2-thumbnail.jpg" alt="" width="768" height="416"></a></figure>
+<figure class="gallery__item"><a href="https://lonelyanimal.net/media/posts/1/gallery/House-2.jpg" data-size="1280x718"><img loading="lazy" src="https://lonelyanimal.net/media/posts/1/gallery/House-2-thumbnail.jpg" alt="" width="768" height="431"></a></figure>
+<figure class="gallery__item"><a href="https://lonelyanimal.net/media/posts/1/gallery/Relighting-2.jpg" data-size="1280x658"><img loading="lazy" src="https://lonelyanimal.net/media/posts/1/gallery/Relighting-2-thumbnail.jpg" alt="" width="768" height="395"></a></figure>
+<figure class="gallery__item"><a href="https://lonelyanimal.net/media/posts/1/gallery/LowPoly.jpg" data-size="3850x2170"><img loading="lazy" src="https://lonelyanimal.net/media/posts/1/gallery/LowPoly-thumbnail.jpg" alt="" width="768" height="433"></a></figure>
+<figure class="gallery__item"><a href="https://lonelyanimal.net/media/posts/1/gallery/Initial.jpg" data-size="1920x1080"><img loading="lazy" src="https://lonelyanimal.net/media/posts/1/gallery/Initial-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
 </div></div>
 <h2><span style="color: #34495e;">2D Drawing</span></h2>
 <p><span style="color: #7e8c8d;">Followed tutorials on youtube</span></p>
@@ -118,9 +98,7 @@
 <figure class="gallery__item"><a href="https://lonelyanimal.net/media/posts/1/gallery/4.jpg" data-size="2048x1536"><img loading="lazy" src="https://lonelyanimal.net/media/posts/1/gallery/4-thumbnail.jpg" alt="" width="720" height="540"></a>
 <figcaption>Procreate Drawing 2</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://lonelyanimal.net/media/posts/1/gallery/5.jpg" data-size="1379x1725"><img loading="lazy" src="https://lonelyanimal.net/media/posts/1/gallery/5-thumbnail.jpg" alt="" width="720" height="901"></a>
-<figcaption>Procreate Drawing 3</figcaption>
-</figure>
+<figure class="gallery__item"><a href="https://lonelyanimal.net/media/posts/1/gallery/5-2.jpg" data-size="1379x1725"><img loading="lazy" src="https://lonelyanimal.net/media/posts/1/gallery/5-2-thumbnail.jpg" alt="" width="768" height="961"></a></figure>
 </div></div>
 <h2><span style="color: #34495e;">UI Design</span></h2>
 <div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-columns="3">
