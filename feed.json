@@ -25,15 +25,15 @@
             "id": "https://lonelyanimal.net/lonelyanimal.html",
             "url": "https://lonelyanimal.net/lonelyanimal.html",
             "title": "Home",
-            "summary": " Portfolio Tutorials Games Contact ",
-            "content_html": "<p> </p>\n<table style=\"border-collapse: collapse; width: 100%; border-style: outset;\" border=\"0\">\n<tbody>\n<tr>\n<td style=\"width: 33.3333%;\">\n<h2><a href=\"https://lonelyanimal.net/portfolio.html\">Portfolio</a></h2>\n</td>\n<td style=\"width: 33.3333%;\">\n<h2><a>Tutorials</a></h2>\n</td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\">\n<h2><a>Games</a></h2>\n</td>\n<td style=\"width: 33.3333%;\">\n<h2><a>Contact</a></h2>\n</td>\n</tr>\n</tbody>\n</table>",
+            "summary": " Your browser does not support the audio element.",
+            "content_html": "<p> </p>\n<table style=\"border-collapse: collapse; width: 100%; border-style: outset;\" border=\"0\">\n<tbody>\n<tr>\n<td style=\"width: 33.3333%;\">\n<h2><a href=\"https://lonelyanimal.net/portfolio.html\">Portfolio</a></h2>\n</td>\n<td style=\"width: 33.3333%;\">\n<h2><a>Tutorials</a></h2>\n</td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\">\n<h2><a>Games</a></h2>\n</td>\n<td style=\"width: 33.3333%;\">\n<h2><a>Contact</a></h2>\n</td>\n</tr>\n</tbody>\n</table>\n<p> </p>\n<p><audio loading=\"lazy\" controls=\"controls\">\n  <source src=\"files/Rinuli.mp3\" type=\"audio/mpeg\" />\nYour browser does not support the audio element.</audio></p>",
             "author": {
                 "name": "Harish Bhukya"
             },
             "tags": [
             ],
             "date_published": "2021-05-01T00:21:34+05:30",
-            "date_modified": "2021-05-01T02:46:58+05:30"
+            "date_modified": "2021-05-01T03:21:11+05:30"
         },
         {
             "id": "https://lonelyanimal.net/portfolio.html",

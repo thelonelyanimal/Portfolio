@@ -3,7 +3,7 @@
     <title>LonelyAnimal</title>
     <link href="https://lonelyanimal.net/feed.xml" rel="self" />
     <link href="https://lonelyanimal.net" />
-    <updated>2021-05-01T02:51:30+05:30</updated>
+    <updated>2021-05-01T03:21:11+05:30</updated>
     <author>
         <name>Harish Bhukya</name>
     </author>
@@ -29,10 +29,10 @@
         <link href="https://lonelyanimal.net/lonelyanimal.html"/>
         <id>https://lonelyanimal.net/lonelyanimal.html</id>
 
-        <updated>2021-05-01T02:46:58+05:30</updated>
+        <updated>2021-05-01T03:21:11+05:30</updated>
             <summary>
                 <![CDATA[
-                     Portfolio Tutorials Games Contact 
+                     Your browser does not support the audio element.
                 ]]>
             </summary>
         <content type="html">
@@ -58,6 +58,10 @@
 </tr>
 </tbody>
 </table>
+<p> </p>
+<p><audio loading="lazy" controls="controls">
+  <source src="files/Rinuli.mp3" type="audio/mpeg" />
+Your browser does not support the audio element.</audio></p>
             ]]>
         </content>
     </entry>
